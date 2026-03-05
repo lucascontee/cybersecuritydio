@@ -1,5 +1,3 @@
-# cybersecuritydio
-
 # 🔐 Desafio Cybersecurity DIO
 
 ## 📖 Descrição do Desafio
