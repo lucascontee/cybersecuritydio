@@ -111,7 +111,7 @@ Foi utilizado o **John the Ripper** com a famosa wordlist **rockyou.txt**.
 john --wordlist=/usr/share/wordlists/rockyou.txt hash.txt
 ```
 
-###Resultado:
+### Resultado:
 ```bash
 Using default input encoding: UTF-8
 Loaded 1 password hash (bcrypt [Blowfish 32/64 X3])
